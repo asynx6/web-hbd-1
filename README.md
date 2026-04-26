@@ -16,16 +16,16 @@ Sebuah proyek website ucapan ulang tahun interaktif yang dibangun menggunakan **
 
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/asynx6/web-hbd-1.git](https://github.com/asynx6/web-hbd-1.git)```
+   git clone https://github.com/asynx6/web-hbd-1.git
 
 1. Masuk ke folder project:
    ```bash
-   cd web-hbd-1```
+   cd web-hbd-1
 
 3. Install dependencies:
    ```bash
-   npm install```
+   npm install
 
 4. Jalankan server development:
    ```bash
-   npm run dev```
+   npm run dev
